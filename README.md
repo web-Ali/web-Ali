@@ -33,26 +33,23 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
-<!-- ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge) -->
+![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
-<img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
 
-<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
 
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
 
-<!--  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" /> -->
-<img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
- <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
  
  ### Чтобы я хотел изучить  в будущем:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
+ <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+
+
+<img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
+ <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
-<!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge) -->
-<!-- <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo"> -->
-<!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
+![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
 
 
 

@@ -20,7 +20,6 @@
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
-![Less](https://img.shields.io/badge/-Less-375194?style=for-the-badge&logo=Less&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)

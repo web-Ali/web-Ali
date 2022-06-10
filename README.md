@@ -48,6 +48,7 @@
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+ <img alt="MobX" src="[https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)" />
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
 
